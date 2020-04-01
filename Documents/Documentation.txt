@@ -1,0 +1,2 @@
+1) Unzip the file if needed.
+2) Mainsite is in Index.html, Open it using any browser.
